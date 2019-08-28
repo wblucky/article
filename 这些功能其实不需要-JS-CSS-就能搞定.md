@@ -1,3 +1,5 @@
+[原文链接](https://github.com/wanqihua/blog/issues/28)
+
 ## 1. 每个单词的首字母大写
 
 
